@@ -1,0 +1,4 @@
+[17-Oct-2024 05:00:54 UTC] PHP Warning:  Undefined array key "stype" in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 21
+[17-Oct-2024 05:00:54 UTC] PHP Warning:  Undefined array key "stype" in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 21
+[11-Nov-2024 11:53:27 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/alt-php82/sess_cce6235f1cb2a041bee67514d73d4b71, O_RDWR) failed: No such file or directory (2) in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 3
+[11-Nov-2024 11:53:27 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/alt-php82) in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 3

@@ -1,0 +1,120 @@
+[17-Oct-2024 04:38:07 UTC] Access denied for user 'username'@'localhost' (using password: YES)
+[17-Oct-2024 04:38:07 UTC] PHP Warning:  Undefined variable $dating in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:38:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php:17
+Stack trace:
+#0 /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Header.php(2): include()
+#1 /home/miatospr/public_html/chatnestv2.miatosprojects.com/index.php(2): require('/home/miatospr/...')
+#2 {main}
+  thrown in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:38:11 UTC] Access denied for user 'username'@'localhost' (using password: YES)
+[17-Oct-2024 04:38:11 UTC] PHP Warning:  Undefined variable $dating in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:38:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php:17
+Stack trace:
+#0 /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Header.php(2): include()
+#1 /home/miatospr/public_html/chatnestv2.miatosprojects.com/index.php(2): require('/home/miatospr/...')
+#2 {main}
+  thrown in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:38:38 UTC] Access denied for user 'username'@'localhost' (using password: YES)
+[17-Oct-2024 04:38:38 UTC] PHP Warning:  Undefined variable $dating in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:38:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php:17
+Stack trace:
+#0 /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Header.php(2): include()
+#1 /home/miatospr/public_html/chatnestv2.miatosprojects.com/index.php(2): require('/home/miatospr/...')
+#2 {main}
+  thrown in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:23 UTC] Access denied for user 'username'@'localhost' (using password: YES)
+[17-Oct-2024 04:54:23 UTC] PHP Warning:  Undefined variable $dating in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php:17
+Stack trace:
+#0 /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Header.php(2): include()
+#1 /home/miatospr/public_html/chatnestv2.miatosprojects.com/index.php(2): require('/home/miatospr/...')
+#2 {main}
+  thrown in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:27 UTC] Access denied for user 'username'@'localhost' (using password: YES)
+[17-Oct-2024 04:54:27 UTC] PHP Warning:  Undefined variable $dating in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php:17
+Stack trace:
+#0 /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Header.php(2): include()
+#1 /home/miatospr/public_html/chatnestv2.miatosprojects.com/index.php(2): require('/home/miatospr/...')
+#2 {main}
+  thrown in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:33 UTC] Access denied for user 'username'@'localhost' (using password: YES)
+[17-Oct-2024 04:54:33 UTC] PHP Warning:  Undefined variable $dating in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php:17
+Stack trace:
+#0 /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Header.php(2): include()
+#1 /home/miatospr/public_html/chatnestv2.miatosprojects.com/index.php(2): require('/home/miatospr/...')
+#2 {main}
+  thrown in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:34 UTC] Access denied for user 'username'@'localhost' (using password: YES)
+[17-Oct-2024 04:54:34 UTC] PHP Warning:  Undefined variable $dating in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php:17
+Stack trace:
+#0 /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Header.php(2): include()
+#1 /home/miatospr/public_html/chatnestv2.miatosprojects.com/index.php(2): require('/home/miatospr/...')
+#2 {main}
+  thrown in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:35 UTC] Access denied for user 'username'@'localhost' (using password: YES)
+[17-Oct-2024 04:54:35 UTC] PHP Warning:  Undefined variable $dating in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php:17
+Stack trace:
+#0 /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Header.php(2): include()
+#1 /home/miatospr/public_html/chatnestv2.miatosprojects.com/index.php(2): require('/home/miatospr/...')
+#2 {main}
+  thrown in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:36 UTC] Access denied for user 'username'@'localhost' (using password: YES)
+[17-Oct-2024 04:54:36 UTC] PHP Warning:  Undefined variable $dating in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php:17
+Stack trace:
+#0 /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Header.php(2): include()
+#1 /home/miatospr/public_html/chatnestv2.miatosprojects.com/index.php(2): require('/home/miatospr/...')
+#2 {main}
+  thrown in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:37 UTC] Access denied for user 'username'@'localhost' (using password: YES)
+[17-Oct-2024 04:54:37 UTC] PHP Warning:  Undefined variable $dating in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php:17
+Stack trace:
+#0 /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Header.php(2): include()
+#1 /home/miatospr/public_html/chatnestv2.miatosprojects.com/index.php(2): require('/home/miatospr/...')
+#2 {main}
+  thrown in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:38 UTC] Access denied for user 'username'@'localhost' (using password: YES)
+[17-Oct-2024 04:54:38 UTC] PHP Warning:  Undefined variable $dating in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php:17
+Stack trace:
+#0 /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Header.php(2): include()
+#1 /home/miatospr/public_html/chatnestv2.miatosprojects.com/index.php(2): require('/home/miatospr/...')
+#2 {main}
+  thrown in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:40 UTC] Access denied for user 'username'@'localhost' (using password: YES)
+[17-Oct-2024 04:54:40 UTC] PHP Warning:  Undefined variable $dating in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php:17
+Stack trace:
+#0 /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Header.php(2): include()
+#1 /home/miatospr/public_html/chatnestv2.miatosprojects.com/index.php(2): require('/home/miatospr/...')
+#2 {main}
+  thrown in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 17
+[17-Oct-2024 04:54:53 UTC] PHP Warning:  Undefined array key "stype" in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 21
+[17-Oct-2024 05:00:37 UTC] PHP Warning:  Undefined array key "stype" in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 21
+[17-Oct-2024 05:00:37 UTC] PHP Warning:  Undefined array key "stype" in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 21
+[17-Oct-2024 05:00:37 UTC] PHP Warning:  Undefined variable $currentLang in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Header.php on line 7
+[17-Oct-2024 05:00:37 UTC] PHP Warning:  Undefined array key "stype" in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 21
+[17-Oct-2024 05:00:43 UTC] PHP Warning:  Undefined array key "stype" in /home/miatospr/public_html/chatnestv2.miatosprojects.com/inc/Connection.php on line 21
+[11-Nov-2024 12:57:24 UTC] Access denied for user 'app'@'localhost' (using password: YES)
+[11-Nov-2024 13:00:10 UTC] Access denied for user 'app'@'localhost' (using password: YES)
+[11-Nov-2024 13:00:16 UTC] Access denied for user 'app'@'localhost' (using password: YES)
+[11-Nov-2024 13:00:21 UTC] Access denied for user 'app'@'localhost' (using password: YES)
+[07-Apr-2025 20:36:55 UTC] PHP Warning:  session_start(): open(/opt/alt/php82/var/lib/php/session/sess_lvvgp16o2ef1trehvq4dfbhn8m, O_RDWR) failed: Disk quota exceeded (122) in /home/miatbpqi/chat24.miatossolutions.com/inc/Connection.php on line 3
+[07-Apr-2025 20:36:55 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php82/var/lib/php/session) in /home/miatbpqi/chat24.miatossolutions.com/inc/Connection.php on line 3
+[07-Apr-2025 20:36:55 UTC] PHP Warning:  session_start(): open(/opt/alt/php82/var/lib/php/session/sess_95cjkk55hb9gfgblt0e9d6krp1, O_RDWR) failed: Disk quota exceeded (122) in /home/miatbpqi/chat24.miatossolutions.com/inc/Connection.php on line 3
+[07-Apr-2025 20:36:55 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php82/var/lib/php/session) in /home/miatbpqi/chat24.miatossolutions.com/inc/Connection.php on line 3
+[07-Apr-2025 21:14:30 UTC] PHP Warning:  session_start(): open(/opt/alt/php82/var/lib/php/session/sess_s36a0v61fu379n00642fca8mkk, O_RDWR) failed: Disk quota exceeded (122) in /home/miatbpqi/chat24.miatossolutions.com/inc/Connection.php on line 3
+[07-Apr-2025 21:14:30 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php82/var/lib/php/session) in /home/miatbpqi/chat24.miatossolutions.com/inc/Connection.php on line 3
+[07-Apr-2025 21:14:31 UTC] PHP Warning:  session_start(): open(/opt/alt/php82/var/lib/php/session/sess_b2rgdu2k66a1rfkm4of8djliqj, O_RDWR) failed: Disk quota exceeded (122) in /home/miatbpqi/chat24.miatossolutions.com/inc/Connection.php on line 3
+[07-Apr-2025 21:14:31 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php82/var/lib/php/session) in /home/miatbpqi/chat24.miatossolutions.com/inc/Connection.php on line 3
+[07-Apr-2025 21:14:32 UTC] PHP Warning:  session_start(): open(/opt/alt/php82/var/lib/php/session/sess_b2rgdu2k66a1rfkm4of8djliqj, O_RDWR) failed: Disk quota exceeded (122) in /home/miatbpqi/chat24.miatossolutions.com/inc/Connection.php on line 3
+[07-Apr-2025 21:14:32 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php82/var/lib/php/session) in /home/miatbpqi/chat24.miatossolutions.com/inc/Connection.php on line 3
+[08-Apr-2025 02:48:23 UTC] PHP Warning:  session_start(): open(/opt/alt/php82/var/lib/php/session/sess_8g5nde5l8pl8d9l5vkmhgfqo4k, O_RDWR) failed: Disk quota exceeded (122) in /home/miatbpqi/chat24.miatossolutions.com/inc/Connection.php on line 3
+[08-Apr-2025 02:48:23 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php82/var/lib/php/session) in /home/miatbpqi/chat24.miatossolutions.com/inc/Connection.php on line 3
+[08-Apr-2025 14:49:19 UTC] PHP Warning:  session_start(): open(/opt/alt/php82/var/lib/php/session/sess_h8mi3b8l0u85afrs1cp252reac, O_RDWR) failed: Disk quota exceeded (122) in /home/miatbpqi/chat24.miatossolutions.com/inc/Connection.php on line 3
+[08-Apr-2025 14:49:19 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php82/var/lib/php/session) in /home/miatbpqi/chat24.miatossolutions.com/inc/Connection.php on line 3

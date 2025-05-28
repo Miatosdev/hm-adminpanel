@@ -1,0 +1,7 @@
+ionCube Scan Report - 2025-04-14 15:17:54
+Scanned directory: /home/miatbpqi/chat24.miatossolutions.com
+
+⚠️ Found ionCube-encoded files:
+ - /home/miatbpqi/chat24.miatossolutions.com/ioncube/ioncube/loader-wizard.php
+ - /home/miatbpqi/chat24.miatossolutions.com/inc/Gomeet.php
+ - /home/miatbpqi/chat24.miatossolutions.com/check_ioncube.php
